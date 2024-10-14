@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .DS_Store
 db.js
 .gitignore
 README.md
+=======
+/node_modules
+.env
+>>>>>>> U redu
